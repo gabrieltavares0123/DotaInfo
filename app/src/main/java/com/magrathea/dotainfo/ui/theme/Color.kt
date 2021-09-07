@@ -1,4 +1,4 @@
-package com.codingwithmitch.dotainfo.ui.theme
+package com.magrathea.dotainfo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
