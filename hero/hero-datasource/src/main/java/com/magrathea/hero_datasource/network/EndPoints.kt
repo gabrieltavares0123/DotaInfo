@@ -1,0 +1,6 @@
+package com.magrathea.hero_datasource.network
+
+object EndPoints {
+    const val BASE_URL = "http://api.opendota.com"
+    const val HERO_STATS = "$BASE_URL/api/heroStats"
+}
