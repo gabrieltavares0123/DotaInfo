@@ -7,5 +7,5 @@ dependencies {
     "implementation"(project(Modules.heroDataSource))
     "implementation"(project(Modules.heroDomain))
 
-    "implementation"(project(Kotlinx.coroutinesCore))
+    "implementation"(Kotlinx.coroutinesCore)
 }
